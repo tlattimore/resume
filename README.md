@@ -17,6 +17,7 @@ My start at Classic began as an intern in the Development department. In January
 ## Education
 ###### **Rowan-Cabarrus Community College** 2009-2012
 *Associates of Applied Science in Web Technologies*
+
 During my time at Rowan-Cabarrus Community College studying Web Technologies I learned about many different subjects pertaining to the web which include: Developing valid HTML & CSS pages, utilizing Photoshop and Creative Suite for the web, accessibility for the web, PHP/MySQL driven web development, and many more technologies to prepare me for a career in the web.
 
 
