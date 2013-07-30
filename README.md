@@ -1,5 +1,5 @@
 # Thomas Lattimore
-*Front-end Web Developer*
+*Web Developer*
 
 * [thomaslattimore.com](http://thomaslattimore.com)
 
