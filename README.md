@@ -5,7 +5,9 @@
 
 ## Work Experience
 
-###### **Classic Graphics**, 2011-Present
+###### **Lullabot**, 2014-Present
+
+###### **Classic Graphics**, 2011-2014
 My start at Classic began as an intern in the Development department. In January of 2012 I was given the opportunity to come on full-time as a part of the development team with a focus on Theming/Front-end work. Classic Graphics has been using Drupal heavily since version 4.6 and years later Drupal is still their platform of choice to and build and maintain web applications. I have had the great pleasure of collaborating on applications for large-scale enterprise organizations.
 
 ###### **Freelance Front-end development**, 2009-Present
