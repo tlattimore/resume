@@ -4,12 +4,17 @@ _Developer and Mechanical Keyboard Mechanical Keyboard Enthusiast_
 
 ###### **Lullabot**
 _2014-Present_
+
 During my time at Lullabot I have worked on user interfaces for large enterprise projects primarily using JavaScript and PHP. I strive for maintainable, reusable, and responsive front-end code that executes in a performant manner. I work with large distributed teams across design and development and collaborate openly.
 
-###### **Classic Graphics**, 2011-2014
+###### **Classic Graphics** 
+_2011-2014_
+
 Started as an intern in the Development department. In January of 2012 I earned the opportunity to come on full-time, focusing on Theming & Front-end work. Classic Graphics used Drupal and Javascript as their platform of choice to build and maintain their web applications. I also developed solid communication skills while learning to work remotely with a team.
 
-###### **Freelance Front-end development**, 2009-Present
+###### **Freelance Front-end development**, 
+_2009-2014_
+
 During my time freelancing I have had the opportunity to work on a wide array of projects of scope and size. These vary from converting small business' and non-profits over to Drupal, to taking PSD's and converting them to Drupal theme's, to contributing on larger scale web applications built on Drupal by theming and site-building.
 
 ## Education
